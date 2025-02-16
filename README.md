@@ -1,11 +1,10 @@
 # college project nlp with database 
 
 
-# Google Cloud API Key Management and Project Setup
-
 ## **Managing API Key**
 
 1. **Create an API Key**
+   - Go to **serach google api key and go this  site Manage API keys | Authentication **.
    - Go to **Google Cloud Console**.
    - Navigate to **Credentials**.
    - Click on **Create API Key**.
