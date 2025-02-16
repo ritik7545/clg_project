@@ -1,0 +1,9 @@
+langchain
+langchain-experimental
+langchain-community
+langchain-core
+python-dotenv
+pymysql
+langchain-core
+cryptography
+sentence-transformers
